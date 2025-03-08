@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956246063214",
+    "project_id": "ta-chovendo-ai",
+    "storage_bucket": "ta-chovendo-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956246063214:android:6ac8037e5bfd3de2d14e7f",
+        "android_client_info": {
+          "package_name": "br.dev.com.tachovendoai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3s1EOcVKqi4OlDBOrTqKCK7vhDhKir6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
